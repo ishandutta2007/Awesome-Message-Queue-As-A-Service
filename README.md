@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Message-Queue-As-A-Service/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Message-Queue-As-A-Service/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Message-Queue-As-A-Service?style=social" alt="GitHub stars"/></a>
@@ -3984,11 +3984,23 @@ Prometheus + Grafana + OpenTelemetry
 
 **The strongest open-source strategy is therefore not necessarily to find one "SQS replacement" or one "Ably replacement", but to compose the appropriate open-source messaging primitives according to the workload: queues, pub/sub, event streaming, IoT messaging, background jobs, workflow orchestration and observability.**
 
-## Star History
+## 📈 Star History
 
-<a href="https://star-history.com/#ishandutta2007/Awesome-Message-Queue-As-A-Service&Timeline" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Message-Queue-As-A-Service_growth.svg">
-    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Message-Queue-As-A-Service_growth.svg">
-  </picture>
-</a>
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Message-Queue-As-A-Service&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Message-Queue-As-A-Service&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring **Awesome-Message-Queue-As-A-Service**! If this reference guide saved you time or helped in designing your messaging architecture:
+
+- ⭐️ **Star this repo** to help others discover MQaaS and open-source messaging alternatives!
+- 🍴 **Fork & Contribute** to submit new message queue services, benchmark data, or architecture patterns.
+- 📢 **Share** with your software engineering team, cloud architects, and tech communities.
+- ☕️ **Sponsor & Support**: Consider supporting ongoing open-source maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/>
+  </a>
+</p>
