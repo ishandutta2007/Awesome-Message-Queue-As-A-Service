@@ -6045,3 +6045,12 @@ Prometheus + Grafana + OpenTelemetry
 
 
 **The strongest open-source strategy is therefore not necessarily to find one "SQS replacement" or one "Ably replacement", but to compose the appropriate open-source messaging primitives according to the workload: queues, pub/sub, event streaming, IoT messaging, background jobs, workflow orchestration and observability.**
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Message-Queue-As-A-Service&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Message-Queue-As-A-Service_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Message-Queue-As-A-Service_growth.svg">
+  </picture>
+</a>
