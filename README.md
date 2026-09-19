@@ -10,7 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Message-Queue-As-A-Service/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Message-Queue-As-A-Service/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Message-Queue-As-A-Service?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Message-Queue-As-A-Service/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Message-Queue-As-A-Service?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
@@ -62,9 +62,9 @@ This curated ecosystem reference covers **managed cloud MQaaS platforms**, **ser
 
 ## 📦 Open-Source Message Brokers & Streaming
 
-Self-hosted and open-source message queues form the backbone of modern distributed systems. Repositories below are ordered by **GitHub Star Count (Descending)**, with each star badge linking directly to the repo's stargazers page:
+Self-hosted and open-source message queues form the backbone of modern distributed systems. Repositories below are ordered by **GitHub Stars_Count (Descending)**, with each Stars_Badge linking directly to the repo's stargazers page:
 
-### 1. Redis [![GitHub stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers)
+### 1. Redis [![GitHub_Stars](https://img.shields.io/github/stars/redis/redis?style=social&color=white)](https://github.com/redis/redis/stargazers)
 - **Repository:** https://github.com/redis/redis
 - **License:** BSD-3-Clause / RSALv2
 - **Description:** In-memory data structure store used as a distributed message broker, pub/sub engine, and high-performance queue (Streams & List data structures).
@@ -72,7 +72,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 2. Apache Kafka [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)
+### 2. Apache Kafka [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)
 - **Repository:** https://github.com/apache/kafka
 - **License:** Apache 2.0
 - **Description:** Distributed event streaming platform used for high-throughput event pipelines, streaming analytics, data integration, and event-driven microservices.
@@ -80,7 +80,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 3. Celery [![GitHub stars](https://img.shields.io/github/stars/celery/celery?style=social&color=white)](https://github.com/celery/celery/stargazers)
+### 3. Celery [![GitHub_Stars](https://img.shields.io/github/stars/celery/celery?style=social&color=white)](https://github.com/celery/celery/stargazers)
 - **Repository:** https://github.com/celery/celery
 - **License:** BSD-3-Clause
 - **Description:** Asynchronous task queue/job queue based on distributed message passing (RabbitMQ, Redis, Amazon SQS).
@@ -88,7 +88,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 4. Sidekiq [![GitHub stars](https://img.shields.io/github/stars/mperham/sidekiq?style=social&color=white)](https://github.com/mperham/sidekiq/stargazers)
+### 4. Sidekiq [![GitHub_Stars](https://img.shields.io/github/stars/mperham/sidekiq?style=social&color=white)](https://github.com/mperham/sidekiq/stargazers)
 - **Repository:** https://github.com/mperham/sidekiq
 - **License:** LGPL-3.0 / Commercial
 - **Description:** Simple, efficient background processing for Ruby powered by Redis.
@@ -96,7 +96,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 5. Apache RocketMQ [![GitHub stars](https://img.shields.io/github/stars/apache/rocketmq?style=social&color=white)](https://github.com/apache/rocketmq/stargazers)
+### 5. Apache RocketMQ [![GitHub_Stars](https://img.shields.io/github/stars/apache/rocketmq?style=social&color=white)](https://github.com/apache/rocketmq/stargazers)
 - **Repository:** https://github.com/apache/rocketmq
 - **License:** Apache 2.0
 - **Description:** Low latency, high throughput, distributed message and streaming platform with ordered, delayed, and transactional messaging.
@@ -104,7 +104,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 6. Valkey [![GitHub stars](https://img.shields.io/github/stars/valkey-io/valkey?style=social&color=white)](https://github.com/valkey-io/valkey/stargazers)
+### 6. Valkey [![GitHub_Stars](https://img.shields.io/github/stars/valkey-io/valkey?style=social&color=white)](https://github.com/valkey-io/valkey/stargazers)
 - **Repository:** https://github.com/valkey-io/valkey
 - **License:** BSD-3-Clause
 - **Description:** Open-source high-performance data structure server supporting pub/sub, streams, and queueing under the Linux Foundation.
@@ -112,7 +112,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 7. NATS Server [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers)
+### 7. NATS Server [![GitHub_Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social&color=white)](https://github.com/nats-io/nats-server/stargazers)
 - **Repository:** https://github.com/nats-io/nats-server
 - **License:** Apache 2.0
 - **Description:** Cloud-native messaging system supporting core pub/sub, request-reply, and JetStream persistent stream engine.
@@ -120,7 +120,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 8. EMQX [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
+### 8. EMQX [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social&color=white)](https://github.com/emqx/emqx/stargazers)
 - **Repository:** https://github.com/emqx/emqx
 - **License:** Apache 2.0
 - **Description:** Scalable, enterprise-grade open-source MQTT message broker for IoT, IIoT, and connected vehicles.
@@ -128,7 +128,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 9. Apache Pulsar [![GitHub stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers)
+### 9. Apache Pulsar [![GitHub_Stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers)
 - **Repository:** https://github.com/apache/pulsar
 - **License:** Apache 2.0
 - **Description:** Distributed pub/sub messaging and event-streaming platform featuring multi-tenancy, geo-replication, and tiered storage.
@@ -136,7 +136,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 10. Temporal [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)
+### 10. Temporal [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)
 - **Repository:** https://github.com/temporalio/temporal
 - **License:** MIT
 - **Description:** Durable execution platform and workflow engine eliminating complex queue orchestration for long-running workflows.
@@ -144,7 +144,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 11. RabbitMQ [![GitHub stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)
+### 11. RabbitMQ [![GitHub_Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)
 - **Repository:** https://github.com/rabbitmq/rabbitmq-server
 - **License:** MPL 2.0
 - **Description:** De-facto standard open-source message broker supporting AMQP 0-9-1, AMQP 1.0, MQTT, STOMP, streams, and clustering.
@@ -152,7 +152,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 12. Redpanda [![GitHub stars](https://img.shields.io/github/stars/redpanda-data/redpanda?style=social&color=white)](https://github.com/redpanda-data/redpanda/stargazers)
+### 12. Redpanda [![GitHub_Stars](https://img.shields.io/github/stars/redpanda-data/redpanda?style=social&color=white)](https://github.com/redpanda-data/redpanda/stargazers)
 - **Repository:** https://github.com/redpanda-data/redpanda
 - **License:** BSL 1.1 / Source Available
 - **Description:** C++ re-imagination of Kafka-compatible event streaming operating without JVM or ZooKeeper.
@@ -160,7 +160,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 13. Eclipse Mosquitto [![GitHub stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers)
+### 13. Eclipse Mosquitto [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers)
 - **Repository:** https://github.com/eclipse-mosquitto/mosquitto
 - **License:** EPL 2.0 / EDL 1.0
 - **Description:** Lightweight C-based MQTT message broker suitable for low-power single-board computers and IoT edge devices.
@@ -168,7 +168,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 14. Asynq [![GitHub stars](https://img.shields.io/github/stars/hibiken/asynq?style=social&color=white)](https://github.com/hibiken/asynq/stargazers)
+### 14. Asynq [![GitHub_Stars](https://img.shields.io/github/stars/hibiken/asynq?style=social&color=white)](https://github.com/hibiken/asynq/stargazers)
 - **Repository:** https://github.com/hibiken/asynq
 - **License:** MIT
 - **Description:** Simple, reliable, and efficient distributed task queue for Go applications powered by Redis.
@@ -176,7 +176,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 15. ZeroMQ [![GitHub stars](https://img.shields.io/github/stars/zeromq/libzmq?style=social&color=white)](https://github.com/zeromq/libzmq/stargazers)
+### 15. ZeroMQ [![GitHub_Stars](https://img.shields.io/github/stars/zeromq/libzmq?style=social&color=white)](https://github.com/zeromq/libzmq/stargazers)
 - **Repository:** https://github.com/zeromq/libzmq
 - **License:** MPL 2.0
 - **Description:** High-performance asynchronous messaging library for brokerless distributed and concurrent application design.
@@ -184,7 +184,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 16. Centrifugo [![GitHub stars](https://img.shields.io/github/stars/centrifugal/centrifugo?style=social&color=white)](https://github.com/centrifugal/centrifugo/stargazers)
+### 16. Centrifugo [![GitHub_Stars](https://img.shields.io/github/stars/centrifugal/centrifugo?style=social&color=white)](https://github.com/centrifugal/centrifugo/stargazers)
 - **Repository:** https://github.com/centrifugal/centrifugo
 - **License:** MIT
 - **Description:** Scalable real-time messaging server (WebSockets, SockJS, gRPC, SSE) for cross-platform app notifications.
@@ -192,7 +192,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 17. BullMQ [![GitHub stars](https://img.shields.io/github/stars/taskforcesh/bullmq?style=social&color=white)](https://github.com/taskforcesh/bullmq/stargazers)
+### 17. BullMQ [![GitHub_Stars](https://img.shields.io/github/stars/taskforcesh/bullmq?style=social&color=white)](https://github.com/taskforcesh/bullmq/stargazers)
 - **Repository:** https://github.com/taskforcesh/bullmq
 - **License:** MIT
 - **Description:** Fast and reliable message queue & batch job processing library for NodeJS and Python based on Redis.
@@ -200,7 +200,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 18. Watermill [![GitHub stars](https://img.shields.io/github/stars/ThreeDotsLabs/watermill?style=social&color=white)](https://github.com/ThreeDotsLabs/watermill/stargazers)
+### 18. Watermill [![GitHub_Stars](https://img.shields.io/github/stars/ThreeDotsLabs/watermill?style=social&color=white)](https://github.com/ThreeDotsLabs/watermill/stargazers)
 - **Repository:** https://github.com/ThreeDotsLabs/watermill
 - **License:** MIT
 - **Description:** Go library for efficiently processing event streams, supporting Kafka, RabbitMQ, NATS, and Google Cloud Pub/Sub.
@@ -208,7 +208,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 19. Beanstalkd [![GitHub stars](https://img.shields.io/github/stars/beanstalkd/beanstalkd?style=social&color=white)](https://github.com/beanstalkd/beanstalkd/stargazers)
+### 19. Beanstalkd [![GitHub_Stars](https://img.shields.io/github/stars/beanstalkd/beanstalkd?style=social&color=white)](https://github.com/beanstalkd/beanstalkd/stargazers)
 - **Repository:** https://github.com/beanstalkd/beanstalkd
 - **License:** MIT
 - **Description:** Fast, general-purpose in-memory work queue service originally designed to reduce latency in web applications.
@@ -216,7 +216,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 20. Memphis Open Source [![GitHub stars](https://img.shields.io/github/stars/memphisdev/memphis?style=social&color=white)](https://github.com/memphisdev/memphis/stargazers)
+### 20. Memphis Open Source [![GitHub_Stars](https://img.shields.io/github/stars/memphisdev/memphis?style=social&color=white)](https://github.com/memphisdev/memphis/stargazers)
 - **Repository:** https://github.com/memphisdev/memphis
 - **License:** Apache 2.0
 - **Description:** Next-generation alternative to traditional message brokers with built-in dead-letter management and schema enforcement.
@@ -224,7 +224,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 21. Dramatiq [![GitHub stars](https://img.shields.io/github/stars/Bogdanp/dramatiq?style=social&color=white)](https://github.com/Bogdanp/dramatiq/stargazers)
+### 21. Dramatiq [![GitHub_Stars](https://img.shields.io/github/stars/Bogdanp/dramatiq?style=social&color=white)](https://github.com/Bogdanp/dramatiq/stargazers)
 - **Repository:** https://github.com/Bogdanp/dramatiq
 - **License:** LGPL-3.0
 - **Description:** Fast and reliable background task processing library for Python 3 with Redis or RabbitMQ backends.
@@ -232,7 +232,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 22. VerneMQ [![GitHub stars](https://img.shields.io/github/stars/vernemq/vernemq?style=social&color=white)](https://github.com/vernemq/vernemq/stargazers)
+### 22. VerneMQ [![GitHub_Stars](https://img.shields.io/github/stars/vernemq/vernemq?style=social&color=white)](https://github.com/vernemq/vernemq/stargazers)
 - **Repository:** https://github.com/vernemq/vernemq
 - **License:** Apache 2.0
 - **Description:** High-performance, distributed MQTT message broker written in Erlang for enterprise IoT connectivity.
@@ -240,7 +240,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 23. LavinMQ [![GitHub stars](https://img.shields.io/github/stars/cloudamqp/lavinmq?style=social&color=white)](https://github.com/cloudamqp/lavinmq/stargazers)
+### 23. LavinMQ [![GitHub_Stars](https://img.shields.io/github/stars/cloudamqp/lavinmq?style=social&color=white)](https://github.com/cloudamqp/lavinmq/stargazers)
 - **Repository:** https://github.com/cloudamqp/lavinmq
 - **License:** Apache 2.0
 - **Description:** Extremely fast AMQP 0-9-1 message broker written in Crystal, achieving high throughput with minimal memory overhead.
@@ -248,7 +248,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 24. NanoMQ [![GitHub stars](https://img.shields.io/github/stars/emqx/nanomq?style=social&color=white)](https://github.com/emqx/nanomq/stargazers)
+### 24. NanoMQ [![GitHub_Stars](https://img.shields.io/github/stars/emqx/nanomq?style=social&color=white)](https://github.com/emqx/nanomq/stargazers)
 - **Repository:** https://github.com/emqx/nanomq
 - **License:** MIT
 - **Description:** Ultra-lightweight edge MQTT broker designed for IoT, embedded Linux, and edge compute platforms.
@@ -256,7 +256,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 25. Apache ActiveMQ Artemis [![GitHub stars](https://img.shields.io/github/stars/apache/activemq-artemis?style=social&color=white)](https://github.com/apache/activemq-artemis/stargazers)
+### 25. Apache ActiveMQ Artemis [![GitHub_Stars](https://img.shields.io/github/stars/apache/activemq-artemis?style=social&color=white)](https://github.com/apache/activemq-artemis/stargazers)
 - **Repository:** https://github.com/apache/activemq-artemis
 - **License:** Apache 2.0
 - **Description:** Non-blocking asynchronous enterprise message broker supporting AMQP, MQTT, STOMP, and JMS 2.0 protocols.
@@ -264,7 +264,7 @@ Self-hosted and open-source message queues form the backbone of modern distribut
 
 ---
 
-### 26. KubeMQ Community [![GitHub stars](https://img.shields.io/github/stars/kubemq-io/kubemq-community?style=social&color=white)](https://github.com/kubemq-io/kubemq-community/stargazers)
+### 26. KubeMQ Community [![GitHub_Stars](https://img.shields.io/github/stars/kubemq-io/kubemq-community?style=social&color=white)](https://github.com/kubemq-io/kubemq-community/stargazers)
 - **Repository:** https://github.com/kubemq-io/kubemq-community
 - **License:** Apache 2.0
 - **Description:** Kubernetes-native message broker and message queue container engineered for microservices container orchestration.
